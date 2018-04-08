@@ -1,0 +1,7 @@
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe.config
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\bin\Debug\SecondConsoleApp.exe
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\bin\Debug\SecondConsoleApp.pdb
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.exe
+C:\Users\P402\Desktop\C#\SecondConsoleApp\SecondConsoleApp\obj\Debug\SecondConsoleApp.pdb
