@@ -1,0 +1,18 @@
+li{
+    color: white;
+    padding: 12px;
+    background: #ffaacc;
+    position: relative;
+    width: 7%;
+    overflow-wrap: break-word;
+    margin: 20px;
+    
+}
+li i{
+    color: red;
+    position: absolute;
+    right: 5px;
+    top: 11px;
+  
+   
+}

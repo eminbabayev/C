@@ -1,0 +1,7 @@
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\bin\Debug\21.04.18.exe.config
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\bin\Debug\21.04.18.exe
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\bin\Debug\21.04.18.pdb
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\obj\Debug\21.04.18.csprojResolveAssemblyReference.cache
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\obj\Debug\21.04.18.csproj.CoreCompileInputs.cache
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\obj\Debug\21.04.18.exe
+C:\Users\P402\Desktop\CA - 402\21.04.18\21.04.18\obj\Debug\21.04.18.pdb
