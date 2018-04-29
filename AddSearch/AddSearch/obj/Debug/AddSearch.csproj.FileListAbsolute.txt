@@ -1,0 +1,10 @@
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\bin\Debug\AddSearch.exe.config
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\bin\Debug\AddSearch.exe
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\bin\Debug\AddSearch.pdb
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.csprojResolveAssemblyReference.cache
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.Form1.resources
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.Properties.Resources.resources
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.csproj.GenerateResource.Cache
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.csproj.CoreCompileInputs.cache
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.exe
+C:\Users\P402\Desktop\C#\AddSearch\AddSearch\obj\Debug\AddSearch.pdb
