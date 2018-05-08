@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\bin\Debug\09.05.18.exe.config
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\bin\Debug\09.05.18.exe
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\bin\Debug\09.05.18.pdb
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\09.05.18.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\_09._05._18.Form1.resources
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\_09._05._18.Properties.Resources.resources
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\09.05.18.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\09.05.18.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\09.05.18.exe
+C:\Users\User\Desktop\CA -402\SQL\09.05.18\09.05.18\obj\Debug\09.05.18.pdb
